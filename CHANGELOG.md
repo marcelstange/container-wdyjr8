@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Sep 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Up ([@marcelstange](https://github.com/marcelstange))
+
+#### Authors: 1
+
+- Marcel Stange ([@marcelstange](https://github.com/marcelstange))
+
+---
+
 # v0.0.1 (Wed Sep 24 2025)
 
 :tada: This release contains work from a new contributor! :tada:
