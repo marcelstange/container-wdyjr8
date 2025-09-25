@@ -6,4 +6,5 @@ COPY requirements.txt /usr/src/app/
 RUN pip install -U -r requirements.txt
 COPY ./web /usr/src/app/
 COPY ./entrypoint.sh /
+RUN apk add --no-cache dos2unix && dos2unix /entrypoint.sh && chmod +x /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]

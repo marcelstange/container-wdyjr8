@@ -3,5 +3,6 @@ SQLAlchemy
 gunicorn
 
 PyMySQL
+cryptography
 coloredlogs
 python-dotenv

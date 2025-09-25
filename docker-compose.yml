@@ -28,7 +28,7 @@ services:
     # This database service is used only for local development
     # Note: It may be preferable to use an online database service
     # https://db.anotherwebservice.com/
-    image: mysql
+    image: mysql:8.0
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: password
